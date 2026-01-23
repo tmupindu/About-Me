@@ -2,7 +2,7 @@
 
 # COMPUTER ENGINEER - MARK MUPINDU
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Code%20Craftsmanship&fontSize=40&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Code%20Smith&fontSize=40&animation=fadeIn)
 
 ---
 
@@ -50,7 +50,7 @@
 | :--- | :--- | :--- |
 | ![Backend](https://img.shields.io/badge/API_Design-Expert-green) | ![System Design](https://img.shields.io/badge/Architecture-Expert-green) | ![DevOps](https://img.shields.io/badge/CI/CD-Advanced-orange) |
 | ![TypeSafe](https://img.shields.io/badge/Type_Safety-Expert-green) | ![Scalability](https://img.shields.io/badge/Scalability-Advanced-orange) | ![Containerization](https://img.shields.io/badge/Docker-Advanced-orange) |
-| ![Database](https://img.shields.io/badge/Databases-Expert-green) | ![LLMs](https://img.shields.io/badge/Design_Patterns-Expert-green) | ![Cloud](https://img.shields.io/badge/Cloud-Intermediate-yellow) |
+| ![Database](https://img.shields.io/badge/Databases-Expert-green) | ![LLMs](https://img.shields.io/badge/LLMs-Expert-green) | ![Cloud](https://img.shields.io/badge/Cloud-Intermediate-yellow) |
 
 </div>
 
