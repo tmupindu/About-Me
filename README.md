@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 SOFTWARE ENGINEER | COMPUTER ENGINEER
+# COMPUTER ENGINEER - MARK MUPINDU
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Code%20Craftsmanship&fontSize=40&animation=fadeIn)
 
@@ -54,54 +54,4 @@
 
 </div>
 
----
 
-## 📝 **ENGINEERING PHILOSOPHY**
-
-```typescript
-interface SoftwareEngineer {
-  education: "Computer Engineering";
-  specialization: "Full-Stack Development";
-  corePrinciples: {
-    typeSafety: "TypeScript-first approach",
-    cleanCode: "Maintainable & readable solutions",
-    scalability: "Systems that grow gracefully",
-    testing: "Confidence through automation"
-  };
-  currentFocus: "Building robust backend systems with elegant APIs";
-}
-🚀 RECENT PROJECTS
-<div align="center">
-🔗 API Framework
-https://img.shields.io/badge/TypeScript-100%2525-blue
-https://img.shields.io/badge/Node.js-Runtime-green
-Scalable backend framework with TypeScript decorators
-
-🤖 Automation Toolkit
-https://img.shields.io/badge/Python-Scripting-yellow
-https://img.shields.io/badge/CLI_Tool-Advanced-orange
-Developer productivity tools and automation scripts
-
-🌐 Full-Stack Application
-https://img.shields.io/badge/React-Frontend-blue
-https://img.shields.io/badge/Express-Backend-green
-Modern web application with real-time features
-
-</div>
-🏫 EDUCATION & BACKGROUND
-🎓 Bachelor of Science in Computer Engineering
-Combining hardware understanding with software excellence
-
-🔬 Key Coursework: Algorithms, Data Structures, Computer Architecture, Systems Design, Networks
-
-📫 CONNECT WITH ME
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/taremekedzwaa@gmail.com
-
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer
-
-"Building software with engineering precision"
-
-</div> ```
