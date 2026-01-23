@@ -38,7 +38,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6ora&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6ora&theme=radical&hide_border=true)
+
 
 ---
 
@@ -50,7 +50,7 @@
 | :--- | :--- | :--- |
 | ![Backend](https://img.shields.io/badge/API_Design-Expert-green) | ![System Design](https://img.shields.io/badge/Architecture-Expert-green) | ![DevOps](https://img.shields.io/badge/CI/CD-Advanced-orange) |
 | ![TypeSafe](https://img.shields.io/badge/Type_Safety-Expert-green) | ![Scalability](https://img.shields.io/badge/Scalability-Advanced-orange) | ![Containerization](https://img.shields.io/badge/Docker-Advanced-orange) |
-| ![Database](https://img.shields.io/badge/Databases-Expert-green) | ![Patterns](https://img.shields.io/badge/Design_Patterns-Expert-green) | ![Cloud](https://img.shields.io/badge/Cloud-Intermediate-yellow) |
+| ![Database](https://img.shields.io/badge/Databases-Expert-green) | ![LLMs](https://img.shields.io/badge/Design_Patterns-Expert-green) | ![Cloud](https://img.shields.io/badge/Cloud-Intermediate-yellow) |
 
 </div>
 
