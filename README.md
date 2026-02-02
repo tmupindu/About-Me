@@ -1,8 +1,8 @@
 <div align="center">
 
-# COMPUTER ENGINEER - MARK MUPINDU
+#  TAREMEKEDZWA MUPINDU
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Code%20Smith&fontSize=40&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Computer%20Engineer&fontSize=40&animation=fadeIn)
 
 ---
 
