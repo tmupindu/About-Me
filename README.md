@@ -34,9 +34,9 @@
 
 ## 📊 **GITHUB STATS**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=6ora&show_icons=true&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmupindu&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6ora&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmupindu&layout=compact&theme=radical&hide_border=true)
 
 
 
