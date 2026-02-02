@@ -34,10 +34,14 @@
 
 ## 📊 **GITHUB STATS**
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tmupindu&theme=2077)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmupindu&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmupindu&layout=compact&theme=radical&hide_border=true) |
+|:---:|:---:|
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tmupindu&theme=2077)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tmupindu&theme=2077)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tmupindu&theme=radical&hide_border=true&currStreakLabel=red)
+
+## 🏆 **GITHUB TROPHIES**
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=tmupindu&theme=radical&no-frame=true&row=2&column=4)
 ---
 
 ## 🎯 **EXPERTISE AREAS**
