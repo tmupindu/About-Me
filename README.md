@@ -32,24 +32,5 @@
 
 ---
 
-## 📊 **GITHUB STATS**
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tmupindu&theme=2077)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tmupindu&theme=2077)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tmupindu&theme=2077)
----
-
-## 🎯 **EXPERTISE AREAS**
-
-<div align="center">
-  
-| **Backend Development** | **System Design** | **DevOps & Tooling** |
-| :--- | :--- | :--- |
-| ![Backend](https://img.shields.io/badge/API_Design-Expert-green) | ![System Design](https://img.shields.io/badge/Architecture-Expert-green) | ![DevOps](https://img.shields.io/badge/CI/CD-Advanced-orange) |
-| ![TypeSafe](https://img.shields.io/badge/Type_Safety-Expert-green) | ![Scalability](https://img.shields.io/badge/Scalability-Advanced-orange) | ![Containerization](https://img.shields.io/badge/Docker-Advanced-orange) |
-| ![Database](https://img.shields.io/badge/Databases-Expert-green) | ![LLMs](https://img.shields.io/badge/LLMs-Expert-green) | ![Cloud](https://img.shields.io/badge/Cloud-Intermediate-yellow) |
-
-</div>
 
 
