@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ **TECH STACK & EXPERTISE**
+##  **Stack**
 
 ### **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
