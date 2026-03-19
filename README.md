@@ -1,6 +1,6 @@
 <div align="center">
 
-#  TAREMEKEDZWA MUPINDU
+#  TM
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Computer%20Engineer&fontSize=40&animation=fadeIn)
 
